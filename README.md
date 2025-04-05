@@ -39,9 +39,9 @@ Certifique-se de ter os seguintes itens instalados:
 
 3. Instale as dependências com npm install.
 
-4. Inicie o projeto com Expo.
+4. Inicie o projeto com npx expo start.
 
-5. Utilizando o cmd inciar a pasta api com npm start, lembrando de verificar seu endereço IP em api.ts.
+5. Utilizando o CMD, inicie a pasta api com o comando npm start. Lembre-se de verificar se o endereço IP em src/services/api.ts é o mesmo que está sendo utilizado pela aplicação Expo em execução.
 
 
 ## 🖌️ Estilo Visual
